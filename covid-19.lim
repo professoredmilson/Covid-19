@@ -39,9 +39,9 @@
               <cabeceira>Complete corretamente?</cabeceira>
               <evalua  crt="Correto!  Se puder, fique em casa!!!!!" icrt="Enganou-se! Se puder, fique em casa!!!!!">1</evalua>
               <imaxe>casa.jpg</imaxe>
-              <texto>O pedido eles é</texto>
+              <texto>O pedido deles é</texto>
               <resp texto="" valor="1">para ficarmos em casa.</resp>
-              <resp texto="" valor="0">Para usarmos máscara.</resp>
+              <resp texto="" valor="0">para usarmos máscara.</resp>
         </paxina>
         <paxina id="3" >
               <tipo>1</tipo>
