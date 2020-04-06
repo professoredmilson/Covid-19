@@ -57,7 +57,7 @@
         <paxina id="4" >
               <tipo>1</tipo>
               <cabeceira>Marque a resposta correta:</cabeceira>
-              <evalua  crt="Perfeito! A coceira pelo corpo não é comum na covide-19." icrt="Incorreto!  Tente novamente!">1</evalua>
+              <evalua  crt="Perfeito! A coceira pelo corpo não é comum na Covid-19." icrt="Incorreto!  Tente novamente!">1</evalua>
               <imaxe>COVID.jpg</imaxe>
               <texto>Não é um sintoma da Covid-19:</texto>
               <resp texto="" valor="0">Dificuldade de respirar.</resp>
